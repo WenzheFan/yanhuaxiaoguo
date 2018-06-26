@@ -55,6 +55,7 @@
 		183CE13F20E21DEE00647425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		183CE14B20E220DA00647425 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
 		183CE14D20E2215F00647425 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
+		183CE14F20E221DC00647425 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 		183CE10D20E21DED00647425 = {
 			isa = PBXGroup;
 			children = (
+				183CE14F20E221DC00647425 /* README.md */,
 				183CE11820E21DED00647425 /* 烟花效果ONE */,
 				183CE13120E21DEE00647425 /* 烟花效果ONETests */,
 				183CE13C20E21DEE00647425 /* 烟花效果ONEUITests */,
