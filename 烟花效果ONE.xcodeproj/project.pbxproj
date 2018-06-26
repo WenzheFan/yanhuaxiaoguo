@@ -15,6 +15,8 @@
 		183CE12920E21DEE00647425 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 183CE12820E21DEE00647425 /* main.m */; };
 		183CE13320E21DEE00647425 /* ____ONETests.m in Sources */ = {isa = PBXBuildFile; fileRef = 183CE13220E21DEE00647425 /* ____ONETests.m */; };
 		183CE13E20E21DEE00647425 /* ____ONEUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 183CE13D20E21DEE00647425 /* ____ONEUITests.m */; };
+		183CE14C20E220DA00647425 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 183CE14B20E220DA00647425 /* star.png */; };
+		183CE14E20E2215F00647425 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 183CE14D20E2215F00647425 /* circle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		183CE13920E21DEE00647425 /* 烟花效果ONEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "烟花效果ONEUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		183CE13D20E21DEE00647425 /* ____ONEUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____ONEUITests.m"; sourceTree = "<group>"; };
 		183CE13F20E21DEE00647425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		183CE14B20E220DA00647425 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		183CE14D20E2215F00647425 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				183CE11A20E21DED00647425 /* AppDelegate.m */,
 				183CE11C20E21DED00647425 /* ViewController.h */,
 				183CE11D20E21DED00647425 /* ViewController.m */,
+				183CE14D20E2215F00647425 /* circle.png */,
+				183CE14B20E220DA00647425 /* star.png */,
 				183CE11F20E21DED00647425 /* Main.storyboard */,
 				183CE12220E21DEE00647425 /* Assets.xcassets */,
 				183CE12420E21DEE00647425 /* LaunchScreen.storyboard */,
@@ -236,6 +242,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				183CE12620E21DEE00647425 /* LaunchScreen.storyboard in Resources */,
+				183CE14C20E220DA00647425 /* star.png in Resources */,
+				183CE14E20E2215F00647425 /* circle.png in Resources */,
 				183CE12320E21DEE00647425 /* Assets.xcassets in Resources */,
 				183CE12120E21DED00647425 /* Main.storyboard in Resources */,
 			);
